@@ -1,8 +1,8 @@
 
 **Overview**
 
--this is the moive detail website name movie point in this webisite you can fetch popular , upcoming and trending moives 
-*In this website we use TMDB api database for fetching real time data . It also have search bar for realtime searching 
+- this is the moive detail website name movie point in this webisite you can fetch popular , upcoming and trending moives 
+* In this website we use TMDB api database for fetching real time data . It also have search bar for realtime searching 
 
 
 
